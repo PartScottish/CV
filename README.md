@@ -1,2 +1,3 @@
 # CV
-Online CV
+
+Please see contact information within the header.
